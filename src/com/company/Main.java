@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
         String h = "Oh,hi,Mark ";
         System.out.println(h);
+        Name.Name("Pedro");
     }
 }
 
